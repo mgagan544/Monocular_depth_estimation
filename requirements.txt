@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pillow
+matplotlib
+torch
+torchvision
+timm
+ultralytics
+transformers
