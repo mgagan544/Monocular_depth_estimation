@@ -1,0 +1,13 @@
+image: test2.jpg
+command: TURN_LEFT
+message: Detected farther path is on the left. Turn left.
+left_score: 0.4629
+center_score: 0.3343
+right_score: 0.3514
+path_row: 309
+path_start: 0
+path_length: 921
+path_center: 460.50
+path_offset: -0.7751
+path_score: 778.8503
+band_score: 0.6141

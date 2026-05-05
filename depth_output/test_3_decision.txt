@@ -1,0 +1,7 @@
+image: test_3.jpg
+command: MOVE_FORWARD
+message: Center looks farther away. Move forward.
+left_score: 0.2737
+center_score: 0.2928
+right_score: 0.2813
+best_path: none
